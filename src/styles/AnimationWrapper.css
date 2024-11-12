@@ -1,0 +1,6 @@
+.animation-wrapper {
+    transition: opacity 0.5s ease-in-out;
+}
+.animation-wrapper:hover {
+    opacity: 0.8;
+}
